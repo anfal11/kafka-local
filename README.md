@@ -36,3 +36,10 @@ Run a Kafka producer:
 node producer.js
 ```
 Enter rider name and location as prompted, e.g., `tony south`, `tony north`.
+
+### DEMO Screenshots:
+![image](https://github.com/anfal11/kafka-local/assets/98157911/dce5cfed-a193-4c9c-a90c-af6d50464aba)
+
+![image](https://github.com/anfal11/kafka-local/assets/98157911/58886dab-86a7-40a6-9d57-ea2376eefa11)
+
+
