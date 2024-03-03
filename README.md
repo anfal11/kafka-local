@@ -1,4 +1,4 @@
-#Here are simplified commands for users to run Kafka locally, along with a brief description:
+## Here are simplified commands for users to run Kafka locally, along with a brief description:
 
 ### Start Zookeeper Container
 Start Zookeeper container and expose port 2181:
